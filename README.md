@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ahillman89
+- I’m interested in autonomy, software safety, and manned-unmanned teaming.
+- I’m currently a PhD student at MIT
+- I’m looking to collaborate on autonomy projects, particularly UAM
