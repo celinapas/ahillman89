@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+
+#written by Nils Pachler de la Osa
+#as part of his PhD in Aero/Astro at MIT
+
+
 import numpy as np
 def viterbi():
     """
